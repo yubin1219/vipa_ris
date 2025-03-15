@@ -4,6 +4,6 @@
 
 > #### Yubin Cho<sup>1</sup>\*, Hyunwoo Yu<sup>2</sup>\*, Kyeongbo Kong<sup>3</sup>\*, Rita Singh<sup>4&dagger;</sup>, Suk-ju Kang<sup>2&dagger;</sup>
 > ##### \* Equal contribution <sup>&dagger;</sup>Corresponding Author 
->  <sup>1</sup> AI Lab, CTO division, LG Electronics <sup>2</sup> Sogang University <sup>3</sup> Pusan National University <sup>4</sup> Carnegie Mellon University
+>  <sup>1</sup> AI Lab, LG Electronics <sup>2</sup> Sogang University <sup>3</sup> Pusan National University <sup>4</sup> Carnegie Mellon University
 
 Codes will be released.
