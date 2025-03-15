@@ -1,6 +1,6 @@
 [![Project](https://img.shields.io/badge/Project-Page-green.svg)](https://yubin1219.github.io/VIPA/)
 # VIPA: Visual Informative Part Attention Framework for Transformer-based Referring Image Segmentation
-#### 📃[Project page](https://yubin1219.github.io/VIPA/) 📝[Paper](https://yubin1219.github.io/VIPA/) 
+#### 📃[Project page](https://yubin1219.github.io/VIPA/)  📝[Paper](https://yubin1219.github.io/VIPA/) 
 
 > #### Yubin Cho<sup>1</sup>\*, Hyunwoo Yu<sup>2</sup>\*, Kyeongbo Kong<sup>3</sup>\*, Rita Singh<sup>4&dagger;</sup>, Suk-ju Kang<sup>2&dagger;</sup>
 > ##### \* Equal contribution <sup>&dagger;</sup>Corresponding Author 
